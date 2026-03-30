@@ -1,1 +1,1 @@
-1.1|1.1|https://raw.githubusercontent.com/spreadsheetprodotti-blip/updater/main/CondivisioneArticoli.xlsm
+1.1|https://raw.githubusercontent.com/spreadsheetprodotti-blip/updater/890b63b0a5bfbb996c3f49f526ecb191c2991ef7/CondivisioneArticoli.xlsm
